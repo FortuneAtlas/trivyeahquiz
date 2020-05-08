@@ -1,0 +1,117 @@
+body {
+  font-family:'Poppins', sans-serif;
+  /*font-family: 'Days One', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Hind', sans-serif;
+  font-family: 'Sarpanch', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  background-color: white;*/
+  background: url('https://i.ibb.co/R7GXbR9/bg.png');
+  /*background-color: white;*/
+  background-size: cover;
+  background-repeat: repeat;
+  color: #232323;
+  margin: 8px 4px 0 4px;
+}
+
+@media (max-width: 1000px) {
+  body {
+    background-repeat: no-repeat;
+  }
+}
+
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.firstcon {
+  padding: 0 12% 2% 12%;
+}
+
+@media (max-width: 1000px) {
+  .firstcon {
+    padding: 2% 10% 2% 10%;
+  }
+}
+
+.illu11 {
+  padding: 4% 0 5% 0;
+  width: 320px;
+}
+
+@media (max-width: 1000px) {
+  .illu11 {
+    padding: 6% 0 6% 0;
+    width: 160px;
+  }
+}
+
+.illu2 {
+  padding: 8% 0 5% 0;
+  width: 0;
+}
+
+@media (max-width: 1000px) {
+  .illu2 {
+    padding: 8% 0 5% 0;
+    width: 100%;
+  }
+}
+
+h1 {
+  font-size: 28px;
+}
+
+@media (max-width: 1000px) {
+  h1 {
+    font-size: 14px;
+  }
+}
+
+h2 {
+  font-size: 30px;
+}
+
+@media (max-width: 1000px) {
+  h2 {
+    font-size: 14px;
+  }
+}
+
+h3 {
+  font-size: 70px;
+}
+
+@media (max-width: 1000px) {
+  h3 {
+    font-size: 50px;
+  }
+}
+
+.list{
+  padding: 0 0 4% 0;
+}
+
+@media (max-width: 1000px) {
+  .list{
+    padding: 0 0 4% 0;
+  }
+}
+
+.footer {
+    font-size: 10px;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    position: fixed;
+    font-weight: 400;
+    color: white;
+    background-color: #6c63ff;
+  }
+
+  .lol {
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
